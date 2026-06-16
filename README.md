@@ -2,28 +2,13 @@
   <img src="https://github.com/maddi-venkata-teja.png" alt="Maddi Venkata Teja" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ffaa;" />
 </p>
 
-<h1 align="center">Hi there, I'm Maddi Venkata Teja 👋</h1>
+# 💫 About Me
 
-<p align="center">
-  <strong>Computer Science Undergraduate & AI Engineer</strong><br>
-  Specializing in Machine Learning engineering, scalable backend architectures, and production-grade LLM system integration.
-</p>
+A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems[cite: 1].
 
-<p align="center">
-  <a href="https://linkedin.com/in/maddi-venkatateja-143425348" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 💫 About Me
-
-I am an engineering student at ANITS (CGPA: 8.39) with a deep passion for building intelligent assistant systems, optimizing backend automation pipelines, and leading technical development teams[cite: 1].
-
-- 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask)[cite: 1].
+- 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask).
 - 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies[cite: 1].
-- 🌱 **What I'm building**: Scaling AI interfaces that bridge the gap between natural language and complex data structures.
+- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39)[cite: 1].
 
 ---
 
@@ -36,14 +21,31 @@ I am an engineering student at ANITS (CGPA: 8.39) with a deep passion for buildi
 
 ---
 
-### 🛠️ Technical Expertise & Stack
+### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Machine Learning & AI** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <br> `LLM Fine-Tuning` • `RAG Pipelines` • `NLP` • `Predictive Modeling` • `EDA`[cite: 1] |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)[cite: 1] |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)[cite: 1] |
-| **Infrastructure & Tools** | ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) <br> `Data Structures & Algorithms (DSA)` • `Network Infrastructure`[cite: 1] |
+🔹 **Machine Learning & Core AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Fine_Tuning-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Fine-Tuning" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
+</p>
+
+🔹 **Languages & Software Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+🔹 **Backend, Database & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
 ---
 
@@ -66,7 +68,7 @@ Here is my real-time GitHub calendar contribution map and language metrics track
 
 #### 🟩 Real-time GitHub Contribution Calendar
 <p align="left">
-  <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" alt="Venky's Contribution Grid Map" width="100%" />
+  <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-te_ja" alt="Venky's Contribution Grid Map" width="100%" />
 </p>
 
 #### ⚡ Real-Time Consistency Trackers & Performance Metrics
