@@ -1,10 +1,10 @@
 # 💫 About Me
 
-A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems[cite: 1].
+A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems.
 
 - 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask).
 - 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies[cite: 1].
-- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39)[cite: 1].
+- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39).
 
 ---
 
