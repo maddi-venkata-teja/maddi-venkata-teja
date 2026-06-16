@@ -1,19 +1,19 @@
 # 💫 About Me
 
-A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems.
+A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems[cite: 1].
 
 - 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask).
-- 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies.
-- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39).
+- 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies[cite: 1].
+- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39)[cite: 1].
 
 ---
 
 ### 🏆 Key Achievements & Experience
 
-*   **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines to optimize educational content generation.
-*   **NASA International Space Apps Challenge**: Ranked **Top 20** out of 80 competing technical teams for engineering a live, Flask-backed macro-climate visualization engine.
-*   **GDG Build & Blog Marathon**: Secured a **Top 10** finish out of 400+ entries by containerizing and deploying an optimized AI application onto Google Cloud Run.
-*   **Python Developer Intern @ Axcentra Technologies**: Engineered custom data processing automation modules, minimizing manual task overhead by 40% and boosting API processing throughput by 25%.
+*   **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines to optimize educational content generation[cite: 1].
+*   **NASA International Space Apps Challenge**: Ranked **Top 20** out of 80 competing technical teams for engineering a live, Flask-backed macro-climate visualization engine[cite: 1].
+*   **GDG Build & Blog Marathon**: Secured a **Top 10** finish out of 400+ entries by containerizing and deploying an optimized AI application onto Google Cloud Run[cite: 1].
+*   **Python Developer Intern @ Axcentra Technologies**: Engineered custom data processing automation modules, minimizing manual task overhead by 40% and boosting API processing throughput by 25%[cite: 1].
 
 ---
 
@@ -48,11 +48,11 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 ### 💻 Highlighted Projects
 
 *   **DSA AI Chatbot** (`Python`, `NLP`, `MongoDB`)
-    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions.
-    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users.
+    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions[cite: 1].
+    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users[cite: 1].
 *   **Auto Faculty Assigner** (`Flask`, `n8n`, `APIs`)
-    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes.
-    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers.
+    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes[cite: 1].
+    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers[cite: 1].
 *   **QueryVantage** (`MERN Stack`, `NLP`)
     *   *Role: Team Lead.* Built a clean, natural language user interface allowing non-technical users to query and interact with MongoDB databases seamlessly.
 
@@ -60,16 +60,16 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 ### 📊 GitHub Contributions & Stats
 
-Here is my real-time GitHub activity map and core developer metrics.
+Here is my real-time GitHub calendar contribution map and language metrics tracker.
 
 #### 🟩 Contribution Graph Map
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maddi-venkata-teja&theme=react-dark&area=true" alt="Venky's Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2077/maddi-venkata-teja" alt="Venky's GitHub Contribution Grid Calendar" width="100%" />
 </p>
 
 #### ⚡ Metrics & Performance
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddi-venkata-teja&theme=dark" alt="Commit Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Venky's Global GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddi-venkata-teja&layout=compact&theme=visual_studio_dark" alt="Top Languages Used" height="180" />
 </p>
 
