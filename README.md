@@ -58,19 +58,21 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 ---
 
-### 📊 GitHub Contributions & Stats
+### 📊 GitHub Activity & Real-Time Streaks
 
-Here is my real-time GitHub calendar contribution map and language metrics tracker.
-
-#### 🟩 Contribution Graph Map
+#### 🟩 Real-time GitHub Contribution Calendar
 <p align="left">
-  <img src="https://ghchart.rshah.org/2077/maddi-venkata-teja" alt="Venky's GitHub Contribution Grid Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" alt="Venky's Contribution Grid Map" width="100%" />
 </p>
 
-#### ⚡ Metrics & Performance
+#### ⚡ Real-Time Consistency Trackers & Performance Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Venky's Global GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddi-venkata-teja&layout=compact&theme=visual_studio_dark" alt="Top Languages Used" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=maddi-venkata-teja&theme=tokyonight" alt="GitHub Contribution Streak Tracker" height="175" />
+</p>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=tokyonight&count_private=true" alt="Venky's Global Profile Metrics" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maddi-venkata-teja&layout=compact&theme=tokyonight" alt="Top Languages Map" height="175" />
 </p>
 
 ---
