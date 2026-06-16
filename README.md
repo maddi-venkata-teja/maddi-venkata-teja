@@ -19,7 +19,7 @@
 
 ### 💫 About Me
 
-I am an engineering student at ANITS (CGPA: 8.39) with a deep passion for building intelligent assistant systems, optimizing backend automation pipelines, and leading technical development teams.
+I am an engineering student at ANITS (CGPA: 8.39) with a deep passion for building intelligent assistant systems, optimizing backend automation pipelines, and leading technical development teams[cite: 1].
 
 - 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask)[cite: 1].
 - 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies[cite: 1].
@@ -40,10 +40,10 @@ I am an engineering student at ANITS (CGPA: 8.39) with a deep passion for buildi
 
 | Category | Technologies |
 | :--- | :--- |
-| **Machine Learning & AI** | LLM Fine-Tuning • Retrieval-Augmented Generation (RAG) • Natural Language Processing (NLP) • Predictive Modeling • Exploratory Data Analysis (EDA) • Scikit-Learn[cite: 1] |
-| **Languages** | Python • Java • JavaScript • HTML5 • CSS3[cite: 1] |
-| **Backend & Databases** | Node.js • Express.js • Flask • RESTful APIs • MongoDB[cite: 1] |
-| **Infrastructure & Tools** | AWS EC2 • Git • Data Structures & Algorithms (DSA) • Network Infrastructure • n8n Automation[cite: 1] |
+| **Machine Learning & AI** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <br> `LLM Fine-Tuning` • `RAG Pipelines` • `NLP` • `Predictive Modeling` • `EDA`[cite: 1] |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)[cite: 1] |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)[cite: 1] |
+| **Infrastructure & Tools** | ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) <br> `Data Structures & Algorithms (DSA)` • `Network Infrastructure`[cite: 1] |
 
 ---
 
