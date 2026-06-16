@@ -2,7 +2,20 @@
   <img src="https://github.com/maddi-venkata-teja.png" alt="Maddi Venkata Teja" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ffaa;" />
 </p>
 
-# 💫 About Me
+<p align="center">
+  <strong>Hi, I'm Maddi Venkata Teja 👋</strong><br>
+  An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools[cite: 1].
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maddi-venkatateja-143425348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 💫 About Me
 
 A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems[cite: 1].
 
@@ -68,7 +81,7 @@ Here is my real-time GitHub calendar contribution map and language metrics track
 
 #### 🟩 Real-time GitHub Contribution Calendar
 <p align="left">
-  <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-te_ja" alt="Venky's Contribution Grid Map" width="100%" />
+  <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" alt="Venky's Contribution Grid Map" width="100%" />
 </p>
 
 #### ⚡ Real-Time Consistency Trackers & Performance Metrics
