@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Hi, I'm Maddi Venkata Teja 👋</strong><br>
-  An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools[cite: 1].
+  An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools.
 </p>
 
 <p align="center">
@@ -17,20 +17,20 @@
 
 ### 💫 About Me
 
-A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems[cite: 1].
+A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems.
 
 - 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask).
-- 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies[cite: 1].
-- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39)[cite: 1].
+- 💡 **Leadership**: Experienced team lead and technical mentor, having coached 22+ engineering students in conversational engine logic and fine-tuning strategies.
+- 🎓 **Education**: Pursuing BTech in Computer Science & Engineering (AI & ML) at ANITS (CGPA: 8.39).
 
 ---
 
 ### 🏆 Key Achievements & Experience
 
-*   **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines to optimize educational content generation frameworks[cite: 1].
-*   **NASA International Space Apps Challenge**: Ranked **Top 20** out of 80 competing technical teams for engineering a live, Flask-backed macro-climate visualization engine[cite: 1].
-*   **GDG Build & Blog Marathon**: Secured a **Top 10** finish out of 400+ entries by containerizing and deploying an optimized AI application onto Google Cloud Run[cite: 1].
-*   **Python Developer Intern @ Axcentra Technologies**: Engineered custom data processing automation modules, minimizing manual task overhead by 40% and boosting API processing throughput by 25%[cite: 1].
+*   **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines to optimize educational content generation frameworks.
+*   **NASA International Space Apps Challenge**: Ranked **Top 20** out of 80 competing technical teams for engineering a live, Flask-backed macro-climate visualization engine.
+*   **GDG Build & Blog Marathon**: Secured a **Top 10** finish out of 400+ entries by containerizing and deploying an optimized AI application onto Google Cloud Run.
+*   **Python Developer Intern @ Axcentra Technologies**: Engineered custom data processing automation modules, minimizing manual task overhead by 40% and boosting API processing throughput by 25%.
 
 ---
 
@@ -64,12 +64,12 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 ### 💻 Highlighted Projects
 
-*   **DSA AI Chatbot** (`Python`, `NLP`, `MongoDB`)[cite: 1]
-    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions[cite: 1].
-    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users[cite: 1].
-*   **Auto Faculty Assigner** (`Flask`, `n8n`, `APIs`)[cite: 1]
-    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes[cite: 1].
-    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers, yielding a 96% administrative efficiency improvement[cite: 1].
+*   **DSA AI Chatbot** (`Python`, `NLP`, `MongoDB`)
+    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions.
+    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users.
+*   **Auto Faculty Assigner** (`Flask`, `n8n`, `APIs`)
+    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes.
+    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers, yielding a 96% administrative efficiency improvement.
 *   **QueryVantage** (`MERN Stack`, `NLP`)
     *   *Role: Team Lead.* Built a clean, natural language user interface allowing non-technical users to query and interact with MongoDB databases seamlessly.
 
