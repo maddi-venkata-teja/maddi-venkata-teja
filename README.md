@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Animated Neural Background Effect -->
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/assets/animated-line.svg" width="100%" />
-
+<!-- Neon Glowing Avatar -->
 <img src="https://github.com/maddi-venkata-teja.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #00ffaa; box-shadow: 0 0 25px #00ffaa;" />
 
 # Hi, I'm Maddi Venkata Teja 👋
-
 **An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools.**
 
 <a href="https://linkedin.com/in/maddi-venkatateja-143425348" target="_blank">
@@ -74,14 +71,17 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 ---
 
-### 📊 GitHub Activity & Real-Time Streaks
+### 📊 GitHub Activity & Real-Time Metrics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=maddi-venkata-teja&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+<!-- Real-time stats using stable Vercel endpoints -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maddi-venkata-teja&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maddi-venkata-teja&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br>
+
+<!-- Contribution Calendar with custom color (00ffaa) -->
 <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" width="100%" />
 
 </div>
