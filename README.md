@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Neon Glowing Avatar -->
 <img src="https://github.com/maddi-venkata-teja.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #00ffaa; box-shadow: 0 0 25px #00ffaa;" />
 
 # Hi, I'm Maddi Venkata Teja 👋
 **An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools.**
 
 <a href="https://linkedin.com/in/maddi-venkatateja-143425348" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -60,14 +59,20 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 ### 💻 Highlighted Projects
 
-*   **DSA AI Chatbot** (`Python`, `NLP`, `MongoDB`)
-    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions.
-    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users.
-*   **Auto Faculty Assigner** (`Flask`, `n8n`, `APIs`)
-    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes.
-    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers, yielding a 96% administrative efficiency improvement.
-*   **QueryVantage** (`MERN Stack`, `NLP`)
-    *   *Role: Team Lead.* Built a clean, natural language user interface allowing non-technical users to query and interact with MongoDB databases seamlessly.
+<details open>
+<summary><b>DSA AI Chatbot</b> (Python, NLP, MongoDB)</summary>
+Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions. Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users.
+</details>
+
+<details>
+<summary><b>Auto Faculty Assigner</b> (Flask, n8n, APIs)</summary>
+Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes. Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers, yielding a 96% administrative efficiency improvement.
+</details>
+
+<details>
+<summary><b>QueryVantage</b> (MERN Stack, NLP)</summary>
+*Role: Team Lead.* Built a clean, natural language user interface allowing non-technical users to query and interact with MongoDB databases seamlessly.
+</details>
 
 ---
 
@@ -75,13 +80,11 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 
 <div align="center">
 
-<!-- Real-time stats using stable Vercel endpoints -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddi-venkata-teja&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
 
 <br>
 
-<!-- Contribution Calendar with custom color (00ffaa) -->
 <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" width="100%" />
 
 </div>
