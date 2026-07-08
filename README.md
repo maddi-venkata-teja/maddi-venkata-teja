@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Neon Glowing Avatar -->
+<!-- Animated Neural Background Effect -->
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/assets/animated-line.svg" width="100%" />
+
 <img src="https://github.com/maddi-venkata-teja.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #00ffaa; box-shadow: 0 0 25px #00ffaa;" />
 
 # Hi, I'm Maddi Venkata Teja 👋
 
-### 🚀 AI Engineer & Full-Stack Developer
-*Bridging the gap between complex data models and seamless user experiences.*
+**An AI Engineer and Full-Stack Developer passionate about bridging the gap between complex data models and seamless user experiences. I specialize in training intelligent conversational engines, building automated pipelines, and architecting production-grade AI tools.**
 
-<a href="https://linkedin.com/in/maddi-venkatateja-143425348">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/maddi-venkatateja-143425348" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<!-- Neural Network Aesthetic Divider -->
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="0" height="0">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
+---
+
 ### 💫 About Me
+
 A Computer Science undergraduate specializing in **Machine Learning engineering**, **scalable backend architectures**, and **production-grade LLM system integration**. I am adept at architecting end-to-end data pipelines, designing automation microservices, and building next-gen AI systems.
 
 - 🚀 **Core Focus**: Retrieval-Augmented Generation (RAG), Fine-Tuning, Agentic AI, and Full-Stack Engineering (MERN & Flask).
@@ -28,53 +28,66 @@ A Computer Science undergraduate specializing in **Machine Learning engineering*
 ---
 
 ### 🏆 Key Achievements & Experience
-* **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines.
-* **NASA International Space Apps Challenge**: Ranked **Top 20/80** for a Flask-backed macro-climate visualization engine.
-* **GDG Build & Blog Marathon**: **Top 10/400+** entry using containerized AI on Google Cloud Run.
-* **Python Developer Intern @ Axcentra Technologies**: Optimized API throughput by 25% and automated data workflows.
+
+*   **AI Builder @ Alta School of Technology (2026 - Present)**: Architected 3+ production AI systems leveraging LLMs and RAG pipelines to optimize educational content generation frameworks.
+*   **NASA International Space Apps Challenge**: Ranked **Top 20** out of 80 competing technical teams for engineering a live, Flask-backed macro-climate visualization engine.
+*   **GDG Build & Blog Marathon**: Secured a **Top 10** finish out of 400+ entries by containerizing and deploying an optimized AI application onto Google Cloud Run.
+*   **Python Developer Intern @ Axcentra Technologies**: Engineered custom data processing automation modules, minimizing manual task overhead by 40% and boosting API processing throughput by 25%.
 
 ---
 
-### 🛠️ Tech Stack & Neural Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,flask,nodejs,mongodb,docker,gcp" />
-</div>
+### 🛠️ Tech Stack & Tools
+
+🔹 **Machine Learning & Core AI**
+<br>
+<img src="https://img.shields.io/badge/LLM_Fine_Tuning-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+🔹 **Languages & Software Engineering**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+🔹 **Backend, Database & Automation**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ---
 
 ### 💻 Highlighted Projects
 
-<details>
-<summary><b>🤖 DSA AI Chatbot</b> | <i>NLP & MongoDB</i></summary>
-Engineered an interactive AI debugging platform indexing 50+ unique DSA solutions with 90%+ diagnostic intent classification.
-</details>
-
-<details>
-<summary><b>⚡ Auto Faculty Assigner</b> | <i>n8n & Flask</i></summary>
-Automated scheduling workflows, reducing task overhead from 5 hours to under 10 minutes (96% efficiency gain).
-</details>
-
-<details>
-<summary><b>🌐 QueryVantage</b> | <i>MERN Stack</i></summary>
-Natural language user interface allowing non-technical users to query and interact with databases seamlessly.
-</details>
+*   **DSA AI Chatbot** (`Python`, `NLP`, `MongoDB`)
+    *   Engineered an interactive AI debugging platform proficiently indexing and explaining 50+ unique Data Structures & Algorithms solutions.
+    *   Sustained a 90%+ diagnostic intent classification while managing secure chat logs for 100+ parallel users.
+*   **Auto Faculty Assigner** (`Flask`, `n8n`, `APIs`)
+    *   Devised an algorithmic resource assignment scheduler via automated n8n workflows, slashing standard task times from 5 hours/week down to under 10 minutes.
+    *   Mitigated 100% of multi-variable schedule overlap conflicts through constraint-satisfaction logic layers, yielding a 96% administrative efficiency improvement.
+*   **QueryVantage** (`MERN Stack`, `NLP`)
+    *   *Role: Team Lead.* Built a clean, natural language user interface allowing non-technical users to query and interact with MongoDB databases seamlessly.
 
 ---
 
-### 📊 Real-Time Metrics & Performance
+### 📊 GitHub Activity & Real-Time Streaks
 
 <div align="center">
 
-<!-- Neural-themed Streak & Stats -->
-<img src="https://streak-stats.demolab.com/?user=maddi-venkata-teja&theme=midnight-shake&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=maddi-venkata-teja&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
 
-<img src="https://github-stats-extended.vercel.app/api?username=maddi-venkata-teja&show_icons=true&theme=midnight-shake&count_private=true&hide_border=true" />
-
-<!-- Contribution Particle Map -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maddi-venkata-teja&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://ghchart.rshah.org/00ffaa/maddi-venkata-teja" width="100%" />
 
 </div>
 
+---
+
 <p align="center">
-  <br><i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  > "First, solve the problem. Then, write the code." – <i>John Johnson</i>
 </p>
